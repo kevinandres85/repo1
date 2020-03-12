@@ -16,6 +16,8 @@ System.out.print("soy la rama4");
 public void rama5(){
 System.out.print("soy la rama5");
 }
-
+public void rama9(){
+System.out.print("soy la rama9");
+}
 
 }
